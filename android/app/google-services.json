@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217265360126",
+    "project_id": "fir-react-59381",
+    "storage_bucket": "fir-react-59381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217265360126:android:728cd325d543f9f7cf29af",
+        "android_client_info": {
+          "package_name": "com.lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQdFHt7dKoMQ3w-QzYAjoTQu3FrtElj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
